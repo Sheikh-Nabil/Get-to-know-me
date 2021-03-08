@@ -2,7 +2,7 @@
 
 # Hi there, I’m Nabil 👋
 
-## I’m a data analyst, etreprenuer and ex-basketball player
+## I’m a data analyst, entrepreneur and ex-basketball player
 
 - 🔭 I’m currently working on data analysis
 - 🌱 I’m currently learning everything 🤣
